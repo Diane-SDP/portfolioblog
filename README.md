@@ -29,11 +29,6 @@ cd portfolioblog
 ```bash
 # Installation des dépendances principales
 yarn install
-
-# Installation des dépendances des packages si la premiere commande ne suffit pas
-cd packages/ui && yarn install
-cd ../app && yarn install
-cd ../..
 ```
 
 ## 🎯 Lancement du projet
@@ -41,8 +36,8 @@ cd ../..
 ### Commande
 
 ```bash
-# Lancer le serveur de développement
-yarn dev
+# Lancer le site
+yarn web
 ```
 
 Le projet sera accessible à l'adresse : **http://localhost:3000**
