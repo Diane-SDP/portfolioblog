@@ -1,104 +1,49 @@
-# Tamagui + Solito + Next + Expo Monorepo
+# 🚀 Portfolio & Blog - Diane Sautereau
 
-```sh
-npm create tamagui
+Un portfolio moderne et un blog technique développé avec **React Native Web**, **Tamagui** et **Next.js** pour une expérience cross-platform exceptionnelle.
+
+## ✨ Contenu
+
+- **📝 Blog de stage** pour découvrir l'aventure Wikodit
+- **👩‍💻 Page "À propos"** complète avec parcours et compétences
+
+## 📋 Prérequis
+
+Avant de commencer, assurez-vous d'avoir installé :
+
+- **Node.js** (version 18 ou supérieure)
+- **Yarn** (gestionnaire de paquets)
+- **Git** (contrôle de version)
+
+## 🚀 Installation
+
+### 1. Cloner le projet
+
+```bash
+git clone https://github.com/Diane-SDP/portfolioblog.git
+cd portfolioblog
 ```
 
-## 🔦 About
+### 2. Installer les dépendances
 
-This monorepo is a starter for an Expo + Next.js + Tamagui + Solito app.
+```bash
+# Installation des dépendances principales
+yarn install
 
-Many thanks to [@FernandoTheRojo](https://twitter.com/fernandotherojo) for the Solito starter monorepo which this was forked from. Check out his [talk about using expo + next together at Next.js Conf 2021](https://www.youtube.com/watch?v=0lnbdRweJtA).
-
-## 📦 Included packages
-
-- [Tamagui](https://tamagui.dev) 🪄
-- [solito](https://solito.dev) for cross-platform navigation
-- Expo SDK
-- Next.js
-- Expo Router
-
-## 🗂 Folder layout
-
-The main apps are:
-
-- `expo` (native)
-- `next` (web)
-
-- `packages` shared packages across apps
-  - `ui` includes your custom UI kit that will be optimized by Tamagui
-  - `app` you'll be importing most files from `app/`
-    - `features` (don't use a `screens` folder. organize by feature.)
-    - `provider` (all the providers that wrap the app, and some no-ops for Web.)
-
-You can add other folders inside of `packages/` if you know what you're doing and have a good reason to.
-
-> [!TIP]
-> Switching from `app` to `pages` router:
->
-> - remove `app` folder from `apps/next`
-> - move `index.tsx` from `pages-example` to `pages` folder
-> - rename `pages-example-user` to `user` and be sure to update `linkTarget` in `screen.tsx` to `user` as well
-> - delete `SwitchRouterButton.tsx` component and remove it from `screen.tsx` and `packages/ui/src/index.tsx`
-> - search for `pagesMode` keyword and remove it
-
-## 🏁 Start the app
-
-- Install dependencies: `yarn`
-
-- Next.js local dev: `yarn web`
-
-To run with optimizer on in dev mode (just for testing, it's faster to leave it off): `yarn web:extract`. To build for production `yarn web:prod`.
-
-To see debug output to verify the compiler, add `// debug` as a comment to the top of any file.
-
-- Expo local dev: `yarn native`
-
-## UI Kit
-
-Note we're following the [design systems guide](https://tamagui.dev/docs/guides/design-systems) and creating our own package for components.
-
-See `packages/ui` named `@my/ui` for how this works.
-
-## 🆕 Add new dependencies
-
-### Pure JS dependencies
-
-If you're installing a JavaScript-only dependency that will be used across platforms, install it in `packages/app`:
-
-```sh
-cd packages/app
-yarn add date-fns
+# Installation des dépendances des packages si la premiere commande ne suffit pas
+cd packages/ui && yarn install
+cd ../app && yarn install
 cd ../..
-yarn
 ```
 
-### Native dependencies
+## 🎯 Lancement du projet
 
-If you're installing a library with any native code, you must install it in `expo`:
+### Commande
 
-```sh
-cd apps/expo
-yarn add react-native-reanimated
-cd ..
-yarn
+```bash
+# Lancer le serveur de développement
+yarn dev
 ```
 
-## Update new dependencies
+Le projet sera accessible à l'adresse : **http://localhost:3000**
 
-### Pure JS dependencies
-
-```sh
-yarn upgrade-interactive
-```
-
-You can also install the native library inside of `packages/app` if you want to get autoimport for that package inside of the `app` folder. However, you need to be careful and install the _exact_ same version in both packages. If the versions mismatch at all, you'll potentially get terrible bugs. This is a classic monorepo issue. I use `lerna-update-wizard` to help with this (you don't need to use Lerna to use that lib).
-
-You may potentially want to have the native module transpiled for the next app. If you get error messages with `Cannot use import statement outside a module`, you may need to use `transpilePackages` in your `next.config.js` and add the module to the array there.
-
-### Deploying to Vercel
-
-- Root: `apps/next`
-- Install command to be `yarn set version stable && yarn install`
-- Build command: leave default setting
-- Output dir: leave default setting
