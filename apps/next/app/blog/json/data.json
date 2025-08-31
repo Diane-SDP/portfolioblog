@@ -1,0 +1,148 @@
+{
+  "entreprise": {
+    "label": "L'entreprise",
+    "articles": [
+      {
+        "Title": "Wikodit, késaco ?",
+        "Content": "*Créée le **1er août 2016** par **Rémi Viguié** et **Jérémy Trufier**, **Wikodit** est une **SAS** spécialisée dans les services numériques. Implantée à **Bordeaux**, elle se distingue par sa taille humaine et son positionnement très technique.*\n\n## Équipe\n\n- **3** développeurs seniors\n- **1** cheffe de projets\n- **3** alternants\n- **2** stagiaires\n\n## Expertise & technos\n\n**Wikodit** propose des **solutions digitales sur-mesure** à une clientèle variée.\nL’expertise repose sur des technologies modernes, garantissant des **applications performantes et évolutives** :\n\n- **React Native**\n- **Nest.js**\n\n## Positionnement & notoriété\n\nL’entreprise opère au **niveau national**, avec une activité **stable** et un **portefeuille client fidèle**.\nSa notoriété s’est construite **sans service marketing**, grâce :\n\n- au **bouche-à-oreille**\n- à la **qualité** de ses réalisations\n- à la **relation de confiance** établie avec ses clients\n\n## Transmission & pédagogie\n\nTous les développeurs seniors sont également **intervenants/formateurs** dans l’enseignement supérieur.\nCe double rôle favorise une transmission **structurée et pédagogique**, ancrée dans l’expérience du terrain : un **cadre d’apprentissage riche** où j’ai pu acquérir des compétences solides et des **conseils immédiatement applicables**.",
+        "Date": "05/05/2025",
+        "Summary": "Je vous présente l'entreprise dans laquelle j'ai fait mon stage pendant 4 mois",
+        "Img": "wikodit.jpeg",
+        "Id": "01"
+      },
+      {
+        "Title": "L'organisation de Wikodit ?",
+        "Content": "**Wikodit** fonctionne selon une **philosophie de travail hybride**, alternant présentiel et télétravail.\nLes bureaux, organisés en **open space**, favorisent les **échanges directs** et le **travail collaboratif**.\nÀ distance, la communication est assurée par des outils comme **Slack** et les **visioconférences**, garantissant une **coordination fluide** au quotidien.\n\n## Rituels quotidiens\n\nUn des rituels fondamentaux de l'équipe est la **réunion quotidienne à 10h**, où chaque membre partage :\n\n- les **tâches réalisées** la veille\n- celles **prévues** pour la journée\n- les éventuels **blocages** rencontrés\n\nCe point régulier facilite la **coordination**, l’**entraide** et offre une **visibilité claire** sur l'avancement des projets.\n\n## Méthode de travail\n\nLa gestion de projet est assurée de manière **agile**, avec une forte **implication** des **fondateurs** et de la **cheffe de projets**.\nLes décisions techniques et stratégiques sont prises de manière **concertée**, en s'appuyant sur les **compétences de chacun**.",
+        "Date": "08/05/2025",
+        "Summary": "Comment est organisée une entreprise tel que Wikodit ? Je vous dit tout !",
+        "Img": "organisation.jpg",
+        "Id": "02"
+      },
+      {
+        "Title": "La formation de cybersécurité",
+        "Content": "**Wikodit** attache également une grande importance à la **cybersécurité**.\n\nAinsi, chaque nouveau membre de l’équipe est tenu de suivre une **formation en ligne** proposée par l’**ANSSI** (*Agence Nationale de la Sécurité des Systèmes d’Information*).\nCette __agence gouvernementale française__ est chargée de veiller à la **sécurité des systèmes d'information de l'État**, mais également de **sensibiliser** les professionnels du numérique aux **bonnes pratiques** en matière de cybersécurité.\n\nLa formation suivie, appelée **SecNumAcadémie**, prend la forme d’un **MOOC** (*Massive Open Online Course*), un cours en ligne **ouvert à tous**, permettant d’acquérir ou de renforcer des compétences dans un __domaine spécifique__.\n\n## Contenus clés\n\n- **Protection des données**\n- **Gestion des mots de passe**\n- **Attaques courantes**\n- **Sécurisation des réseaux**\n\nIl constitue une **base essentielle** pour tout professionnel de l’informatique, quel que soit son niveau d’expérience.\n\nMême si la plupart des informations présentes dans cette formation m’était déjà **familières**, et acquises suite à mes deux premières années à **Ynov** et à mes **expériences personnelles**, cela a constitué un **rappel efficace** des bonnes pratiques.",
+        "Date": "08/05/2025",
+        "Summary": "Découvrez la première étape de ma formation à Wikodit !",
+        "Img": "cybersecu.jpg",
+        "Id": "03"
+      }
+    ]
+  },
+  "projet": {
+    "label": "Mon projet",
+    "articles": [
+      {
+        "Title": "PAPIION",
+        "Content": "**Papiion** est une **plateforme LCMS** créée par la société **Grains’up** basée à Limoges, dont le **développement** et le **support** ont été confiés à **Wikodit**.\n\n## Qu’est-ce qu’un LCMS ?\n\n**LCMS** (*Learning Content Management System*) est un outil qui **centralise** la création, la gestion et le suivi de **contenus pédagogiques**.\nConcrètement, c'est une plateforme qui permet aux entreprises de **concevoir des parcours de formation** en ligne **personnalisés**, adaptés à leurs **besoins métiers**.\n\n## Organisation par contextes\n\n**Papiion** repose sur un **système de contextes**. Chaque contexte représente une **organisation** ou une **structure** indépendante, avec ses propres **utilisateurs**, **formations** et **contenus**.\n\nAu sein d’un même contexte, chaque utilisateur possède **un ou plusieurs rôles** qui lui permettent d’accéder à plus ou moins de fonctionnalités.\n\n## Ce que voient les apprenants\n\n- faire leur **parcours**\n- suivre sur un **agenda** leurs prochaines **deadlines**\n- **contacter** leurs **animateurs**\n\n## Rôles côté encadrement\n\n- **Animateur** : peut **créer des parcours** (modules d’apprentissages, **travaux à rendre**, **réunions**), **suivre** les résultats des apprenants, **ajouter** des apprenants, etc. → il **pilote** l’apprentissage.\n- **Administrateur de contexte** : **gère** les **utilisateurs** et les **modules** au sein de **son** organisation.\n- **Superadministrateur** : dispose d’un **accès complet** à la plateforme (peut tout **modifier** et **intervenir** sur l’ensemble des contenus). C’est souvent avec un compte ^superadmin^ que je **teste** les fonctionnalités ou les bugs.",
+        "Date": "10/05/2025",
+        "Summary": "Qu'est ce que Papiion, le projet sur lequel je travaille ?",
+        "Img": "papiion.jpeg",
+        "Id": "04"
+      },
+      {
+        "Title": "La gestion de projet",
+        "Content": "L’efficacité d’un projet ne dépend pas seulement du **niveau technique** des développeurs, mais aussi de la **manière** dont il est **géré**.\nChez **Wikodit**, la gestion de projet est orchestrée par **Pauline**, notre **cheffe de projets**, dont le rôle est **essentiel** pour **organiser**, **planifier** et **coordonner** les efforts de chacun.\n\n## Outils et références\n\nPour **Papiion**, nous utilisons principalement des outils de la **suite Atlassian**, spécialement conçus pour répondre aux besoins de **gestion de projet IT**.\nPlus de **260 000** clients dans le monde utilisent Atlassian (ex. **NASA**, **Spotify**, **Adobe**).\n\n**Source :** Atlassian Investor Relations Q4 FY23 Report\nhttps://investors.atlassian.com/financials/quarterly-results/default.aspx\n\n- **JIRA** : plateforme **centrale** pour le **suivi des tâches** (deux espaces JIRA : **support** et **développement**).\n- **Tempo** : **journalise** le temps passé sur chaque ticket → **meilleure évaluation** de la charge et **facturation transparente**.\n- **Figma** : plateforme de **maquettage** où les clients **exposent** leurs idées et **créent** des maquettes consultées puis **codées** par l’équipe.\n\n## Les colonnes du flux de tickets\n\n- **À qualifier** : le ticket est créé mais nécessite encore des **précisions**.\n- **À faire** : le ticket est **prêt** à être traité.\n- **En attente** : ticket **bloqué** (en attente d'une réponse/ressource).\n- **En cours** : **développement** ou **correction** en cours.\n- **En revue de code** : la **branche** associée attend une **relecture**.\n- **En validation interne** : modifications intégrées, tests par l’équipe (souvent **Pauline**).\n- **À valider** : **validation finale** par le client.\n- **À revoir** : **corrections/ajustements** nécessaires.\n- **Prêt à livrer** : **finalisé**, en attente de **prod**.\n- **Livré** : déployé et **disponible** sur l’environnement cible.",
+        "Date": "12/05/2025",
+        "Summary": "Moyens de communications, méthode de travail, découvrez la gestion de projet !",
+        "Img": "gestionprojet.jpg",
+        "Id": "05"
+      },
+      {
+        "Title": "Le Workflow GIT",
+        "Content": "Lorsqu’on travaille sur un projet de **grande envergure** comme **Papiion**, la **rigueur** dans l’organisation du code est **essentielle**.\nNous utilisons pour cela un **monorepo**, c’est-à-dire un seul dépôt **GitHub** qui regroupe l’ensemble des modules de la plateforme : le **front React Native**, le **backoffice en Vue.js**, l’**API Nest.js**, etc. Ce repo est hébergé sur **GitHub**.\n\n## Branches principales\n\n- ^develop^ : utilisée pour toutes les **nouvelles fonctionnalités** (*features*)\n- ^main^ : dédiée aux **correctifs en production** (*support*)\n\nLorsqu’un développeur travaille sur un ticket, il **crée une branche** à partir de l’une de ces deux branches selon le **type de tâche**.\n\n## Nomenclature des branches\n\n- ^[fix ou feature]/[le nom du ticket]^\n- **Exemple** : ^fix/GUPSUP-333^\n\n## Format des commits\n\n- ^[fix ou feature]([le dossier concerné]): [description] ([nom du ticket])^\n- **Exemple** : ^fix(apps/front): wrong color for the dashboard title (GUPSUP-333)^\n\n## Pull Request & release\n\nUne fois la branche **poussée**, une **Pull Request (PR)** est ouverte pour proposer l’**intégration** des modifications :\n\n- **Commentaires** possibles pour expliquer des **décisions techniques**\n- **Relecture** par un autre **membre** de l’équipe (approbation ou **ajustements**)\n- Après **validation**, **merge** dans ^develop^ ou ^main^\n- Le ticket passe en **validation interne**\n\nQuand plusieurs tickets sont **résolus** et **validés**, on prépare une **release** :\n\n- déploiement en **préproduction** (vérification globale, corrections de dernière minute)\n- si tout est bon → déploiement en **production** (modifications **visibles** pour tous)",
+        "Date": "12/05/2025",
+        "Summary": "Percez à jour notre workflow GIT avec cet article !",
+        "Img": "github.jpg",
+        "Id": "06"
+      }
+    ]
+  },
+  "missions": {
+    "label": "Mes missions",
+    "articles": [
+      {
+        "Title": "MISSION SUPPORT",
+        "Content": "Ma première mission — et celle qui m’a occupée pendant la **majeure partie** de mon stage — consistait à **assurer le support** du site.\nConcrètement, cela signifie **corriger** ou **modifier** ce que les **utilisateurs** ou le **client** ont identifié comme problématique.\n\n## Types de tickets\n\n- **Bug** : problème **clair**, **reproductible**, avec une **cause identifiée**.\n- **Incident** : **dysfonctionnement ponctuel**, non systématique.\n- **Tâche** : comportement **anormal** du site nécessitant une **intervention** (sans être un bug).\n\nSur le support, il faut savoir **jongler** entre les tickets **urgents** — à traiter rapidement — et ceux **moins urgents**, mais qu’il ne faut **pas oublier**.\nJ’ai appris à **sélectionner efficacement** les tickets les plus **importants**, ce qui m’a permis de **choisir mes tâches en autonomie**, bien que **Jeremy**, le CEO, me **suggère** des tickets également.\n\n## Pourquoi c’est formateur\n\n- les tickets touchent **toutes les parties** du projet\n- ils sont souvent **courts** → découverte **rapide** de nombreux aspects\n- **familiarisation** progressive avec l’**architecture du code**\n\nC’est une **excellente porte d’entrée** pour comprendre un projet **complexe** sans être **noyée** dès le début.",
+        "Date": "20/05/2025",
+        "Summary": "Première mission :  le support, un aspect essentiel du web.",
+        "Img": "support.png",
+        "Id": "07"
+      },
+      {
+        "Title": "MISSION DEVELOPPEMENT",
+        "Content": "Aujourd’hui, j’ai basculé du côté **développement** de la plateforme. Le fonctionnement est un peu différent de celui du **support**.\nIci, les tickets sont organisés par **Lots** : un lot correspond à une **nouvelle fonctionnalité** demandée par le client, **découpée** en plusieurs **tâches**.\n\n## Exemple de lot (page d’aide)\n\n- permettre à l’**apprenant** d’accéder à la page\n- permettre aux **administrateurs** de **créer** et **gérer** les aides\n- **filtrer** les contenus affichés **selon le contexte** de l’utilisateur\n\nChaque ticket fait donc partie d’un **ensemble cohérent**.\n\n## Estimations & ajustements\n\nAvant de démarrer, on passe par une étape d’**estimation** : chaque ticket est évalué en **story points** (suite de **Fibonacci** : 1, 2, 3, 5, 8, 13...).\nCe système évite les **estimations trop précises** et pousse à réfléchir en termes de **difficulté relative**.\n\n- estimation **initiale** du lot : **39 points**\n- après démarrage : ressenti **plus simple** que prévu\n- **ajustement** après discussion avec l’équipe : **26 points**\n\nUne bonne manière d’**ajuster son jugement** et de **mieux anticiper** les efforts de développement.",
+        "Date": "20/07/2025",
+        "Summary": "Deuxième mission :  le développement, comment ça marche ?",
+        "Img": "dev.png",
+        "Id": "08"
+      }
+    ]
+  },
+  "technos": {
+    "label": "Les technos",
+    "articles": [
+      {
+        "Title": "Architecture du projet",
+        "Content": "Le projet **Papiion** sur lequel je travaille est structuré en plusieurs grandes **parties**, chacune jouant un rôle **précis** dans le fonctionnement global de la plateforme.\n\n- Le **backoffice** : espace de **gestion interne** destiné aux administrateurs (configuration, création de contenus, gestion des utilisateurs…). Développé en **Vue 2.js**.\n- Le **front** : interface **visible** par les **apprenants** et les **animateurs**. Développé en **React Native** avec **TypeScript**.\n- Le **frontoffice** : ancien cœur du site (parcours + outils des animateurs). Depuis la **refonte**, largement **remplacé** par le nouveau front, **sauf** pour les **modules d’exercices**. Lorsqu’un apprenant lance un module, l’ancien frontoffice (**Vue 2**) est **chargé “par-dessus”** le front pour afficher le contenu interactif.\n- L’**API** : développée en **NestJS** (Node.js orienté back-end), elle **fait le lien** entre toutes ces parties (données, requêtes, connexions BD, etc.).\n\nToutes les parties en **Vue 2** sont destinées à être **refaites** en **React Native** à terme pour **harmoniser** l’ensemble.\n\nPour le **stockage des données**, le projet utilise **MongoDB** (NoSQL) → documents **flexibles** plutôt que tables **SQL**.\n\nEn complément, un **storage proxy** est utilisé pour les **fichiers lourds** (images, documents) : il **reçoit** les fichiers et les **redirige** vers **Amazon S3**.",
+        "Date": "10/05/2025",
+        "Summary": "Découvrez les différentes parties du projet Papiion et leurs technologies !",
+        "Img": "architecture.jpg",
+        "Id": "09"
+      },
+      {
+        "Title": "React Native",
+        "Content": "Je n’avais jamais touché à du **React Native**, et très peu à du **JavaScript** avant ce projet, mais c’est probablement devenu l’un de mes **frameworks préférés**, en grande partie grâce au **système de composants**.\n\nSur **React Native**, on crée des **composants réutilisables** qu’on peut intégrer n’importe où. Résultat : les pages finales ne sont en fait que des **composants imbriqués**…\nC’est un système qui rend le **debug** très **pratique** : on sait où retrouver le composant qui ne fonctionne pas et **où il est appelé**.\nDe plus, la **communauté** React Native est **énorme**, on trouve rapidement des articles pour **résoudre** les problèmes.\n\nAssez vite, j’ai découvert que **React** et **React Native**, ce n’était **pas la même chose** :\n\n- **React (ReactJS)** : bibliothèque **JavaScript** (Meta) pour **interfaces web**.\n- **React Native** : même **philosophie** (composants, état, hooks…), mais pour des **applications mobiles natives**. Les composants utilisés (^<View>^, ^<Text>^, ^<TouchableOpacity>^…) ne sont **pas** rendus dans un navigateur, mais **convertis** en composants natifs **iOS/Android**.\n\nDonc, on code en **TypeScript**, mais au lieu d’écrire du **HTML/CSS**, on utilise des **composants** propres à React Native.\n\nLa grande différence : le **DOM**.\nLe DOM (*Document Object Model*) est l’arbre de tout ce qu’il y a dans une page web. Quand on crée une balise ^<div>^ en HTML, elle est ajoutée à l’arbre, et JavaScript peut **interagir** avec elle.\n\nCe DOM est présent en **React** (web), mais en **React Native** on **n’en a pas besoin** : ce n’est pas rendu dans un navigateur. Les composants sont **interprétés** par le système **natif** via un **bridge**.\n\n## React Native Web (spécificité du projet)\n\nOn utilise **React Native Web**, une bibliothèque qui **transforme** les composants natifs en **HTML/CSS** pour le navigateur.\nEn gros, elle traduit :\n\n- ^<View>^ → ^<div>^\n- ^<Text>^ → ^<span>^ ou ^<p>^\n- etc.\n\nAinsi, l’appli fonctionne dans un **navigateur web**, via le **DOM**, comme une appli **React** classique — mais le développeur ne touche pas au ^<div>^ directement : c’est **React Native Web** qui fait la **traduction**.\n\nCela permet d’utiliser **la même base de code** pour **mobile** et **web**. L’équipe a fait ce choix pour pouvoir **facilement** faire du site une **application mobile** à l’avenir.",
+        "Date": "08/07/2025",
+        "Summary": "Zoom : React Native, keskecé ?",
+        "Img": "reactnative.jpg",
+        "Id": "10"
+      },
+      {
+        "Title": "Tamagui",
+        "Content": "**Tamagui** est une **bibliothèque UI** open source basée sur **React**, qui vise à **simplifier** et **unifier** le développement d’applications **cross-platform** (React Native **et** React Native Web) **sans dupliquer** le code.\n\nConcrètement, Tamagui propose un **design system complet**, avec des **composants prêts à l’emploi** (boutons, champs de texte, etc.) que l’on peut **personnaliser** facilement via des **props** (ex. `bg` pour la couleur de fond).\n\n## Pourquoi Tamagui ?\n\n- **Productivité** : composants **réutilisables**, thème **cohérent**.\n- **Perf** : **compilation statique** des styles au **build** → interfaces **rapides**, même sur mobile.\n- **Constance** : une UI **propre et cohérente** sur **toutes les plateformes**.",
+        "Date": "08/07/2025",
+        "Summary": "Zoom : Tamagui , keskecé ?",
+        "Img": "tamagui.jpg",
+        "Id": "11"
+      },
+      {
+        "Title": "Vue2js et Pug",
+        "Content": "**Vue.js** est un framework JavaScript pour construire des **interfaces utilisateurs**. La version utilisée ici est **Vue 2**, avec un **système de composants** (comme React/React Native).\n\nChaque composant est un fichier ^.vue^ qui contient **trois sections** :\n\n- partie **template** (HTML)\n- partie **script** (logique JavaScript)\n- partie **style** (CSS)\n\nLe fait d’avoir **tout dans le même fichier** rend, selon moi, la lecture **plus compliquée** sur **gros projets** (fichiers de **500—1000 lignes**).\n\nSur **Papiion**, on n’utilise pas un template en **HTML** mais en **Pug** (*anciennement Jade*).\n**Pug** permet d’écrire du HTML de manière **concise**, sans **balises fermantes**, sans chevrons (^<>^) et avec une **indentation** structurante.\n\n**Exemple HTML :**\n\n- ^<div class=\"container\">^\n- ^  <h1>Hello world</h1>^\n- ^  <p>Ceci est un paragraphe</p>^\n- ^</div>^\n\n**Équivalent Pug :**\n\n- ^.container^\n- ^  h1 Hello world^\n- ^  p Ceci est un paragraphe^\n\nPug ne **modifie pas** le comportement de **Vue 2**, mais propose des **templates** plus **rapides à écrire**.\nDe mon point de vue, je préfère les **templates HTML** classiques : c’est plus **simple** pour **retrouver la hiérarchie** des éléments. Avec Pug, il faut se fier à l’**indentation**, ce qui n’est pas toujours **facile**.\n\nCette partie du code, même si elle m’a permis de **découvrir Vue 2**, je ne l’affectionne pas particulièrement.\nHeureusement, elle est destinée à être **remplacée** par du **React Native**, un outil plus **clair**, plus **moderne**, et mieux **adapté** au **cross-platform**.",
+        "Date": "11/07/2025",
+        "Summary": "Zoom : Vue2js et Pug, keskecé ?",
+        "Img": "vue2.png",
+        "Id": "12"
+      },
+      {
+        "Title": "Nest et MongoDB",
+        "Content": "Il existe **trois autres parties** pour le bon fonctionnement du projet : l’**API**, le **storage proxy** et la **DB**.\nJe n’y ai presque **pas touché**, mais ils sont **indispensables** au bon fonctionnement de l’application — d’où cet aperçu rapide.\n\n## Rôles\n\n- **API (NestJS)** : gère la **communication** entre les différentes parties (**front**, **backoffice**) et le **stockage des données**. Nest (Node.js + TypeScript) apporte une **structure claire** (modules, services, contrôleurs…).\n- **Storage proxy (NestJS)** : **passerelle** dédiée aux **échanges de fichiers** entre l’application et les services de stockage, sans les **exposer directement**. Sur Papiion : **Amazon S3**.\n- **MongoDB** : base **NoSQL** (documents **JSON**). Contrairement au **SQL**, le NoSQL permet de stocker des données **plus souples** et **variées**.",
+        "Date": "11/07/2025",
+        "Summary": "Zoom : Nest, MongoDB, keskecé ?",
+        "Img": "other.jpg",
+        "Id": "13"
+      }
+    ]
+  },
+  "avenir": {
+    "label": "Et maintenant ?",
+    "articles": [
+      {
+        "Title": "Bilan",
+        "Content": "## Bilan de l’expérience\n\nAu terme de quatre mois, je retiens une expérience **riche, technique et humaine**. J’ai apprécié l’**esprit d’équipe**, la **bienveillance** et le cadre de travail **stimulant**, qui m’ont permis de progresser rapidement tout en prenant plaisir à développer.\n\n## Progression professionnelle\n\nPendant le stage, j’ai réellement **monté en compétences** :\n\n- **React Native / React Native Web** : de quasi-débutante à capable d’**implémenter des fonctionnalités**, **corriger des bugs** et **ouvrir des PR** revues par l’équipe.\n- **Workflow projet** : usage quotidien de **JIRA/Tempo**, respect du **workflow Git**.\n- **Autonomie & communication** : **tri des tickets**, **priorisation** entre urgences et tâches de fond, **stand-up** quotidiens, échanges clairs sur **Slack**.\n\n## Une difficulté marquante sur laquelle je doit travailler\n\nJ’ai eu du mal sur l’**estimation d’un lot** (page d’aide) : **39 points** initialement, **ajustés à 26** après démarrage.\n\n- **Faiblesses mises en lumière** : tendance à **sur-détailler** et à **surestimer** l’effort par prudence.\n- **Solutions appliqués** : **remise en question rapide**, **demande de feedback** à l’équipe, **ajustement** des estimations pour tenir les délais.",
+        "Date": "31/08/2025",
+        "Summary": "Bilan de l’expérience : ressenti, progression, ...",
+        "Img": "bilan.jpg",
+        "Id": "14"
+      },
+
+      {
+        "Title": "La suite ?",
+        "Content": "Je termine mon **stage** à la fin du mois d’**août**, après avoir vécu une aventure aussi bien **technique** qu'**humaine**.\nElle m’a permis de **confirmer** mon **choix professionnel** : travailler dans le **développement**.\nMais cette aventure est **loin d’être finie** !\n\nJ’ai le plaisir d’annoncer qu’à partir de **septembre**, je rejoindrai **Wikodit** en tant qu’**alternante**.\nUne **nouvelle étape** commence, et je suis **ravie** de pouvoir **continuer à progresser** aux côtés d’une équipe aussi **compétente** qu’**accueillante**.\nJ’ai encore beaucoup à **apprendre**, et je sais que je suis **au bon endroit** pour le faire.\n\n## Merci ❤️\n\n- **Jérémy Trufier**, directeur général, pour sa **confiance** et son **implication** dans ma formation.\n- Les **développeurs de Wikodit** pour leur **patience**, **pédagogie** et **bienveillance** : **Alex**, **Romain**, et tout particulièrement **Yaniss**, avec qui j’ai travaillé sur **Papiion** et qui m’a énormément **aidée** sur ce projet.\n- **Pauline Bragas**, notre **cheffe de projet**, pour sa **bonne humeur communicative** et son **efficacité**, toujours **disponible** en cas de besoin.\n\nEnfin, un **merci général** à **toute l’équipe** pour ces **quatre mois** riches en **apprentissages**, en **échanges** et en **rires**.\nJe suis **honorée** et **ravie** de pouvoir **continuer** à travailler chez **Wikodit**, dans cet **environnement** de travail aussi **stimulant** que **bienveillant**.",
+        "Date": "16/08/2025",
+        "Summary": "Je vous révèle la suite après ce stage fantastique !",
+        "Img": "question.jpg",
+        "Id": "15"
+      }
+    ]
+  }
+}
