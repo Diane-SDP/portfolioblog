@@ -42,3 +42,5 @@ yarn web
 
 Le projet sera accessible à l'adresse : **http://localhost:3000**
 
+/!\ La première compilation peut prendre du temps, soyez patient ! /!\
+
